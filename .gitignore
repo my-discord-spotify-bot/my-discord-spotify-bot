@@ -1,0 +1,10 @@
+# Rust
+/target
+
+# Secrets
+.env
+
+# Editors
+.vscode
+.vs
+.fleet
